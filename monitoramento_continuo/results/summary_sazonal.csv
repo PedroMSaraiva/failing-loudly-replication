@@ -1,0 +1,8 @@
+adapter,anos,taxa_diaria_%,alarmes_ano_media,alarmes_ano_min,alarmes_ano_max,dp_entre_anos,dias_1o_alarme_mediana,anos_sem_alarme_%,pers3_alarmes_ano,pers3_anos_com_alarme_%,bonf_alarmes_ano,bonf_anos_com_alarme_%,seg_por_teste
+nannyml_pca,10,89.0,325.0,180,365,62.1,1.0,0,277.8,100,,,0.078
+ks_ingenuo,10,57.1,208.4,133,317,54.4,2.0,0,80.6,100,82.1,100.0,0.013
+alibi_mmd,5,35.2,128.4,112,155,17.1,6.0,0,10.2,100,106.6,100.0,0.211
+ref_ksb,10,33.1,120.9,103,180,23.6,6.0,0,7.8,100,54.4,100.0,0.01
+alibi_ks,10,33.1,120.9,103,180,23.6,6.0,0,7.8,100,54.4,100.0,0.04
+ref_mmd,10,32.2,117.5,104,146,14.4,6.0,0,5.3,90,0.0,0.0,0.071
+evidently,10,0.2,0.8,0,3,1.3,90.0,70,0.0,0,,,0.072
